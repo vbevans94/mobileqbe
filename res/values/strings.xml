@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile QBE</string>
+    <string name="action_search">Search</string>
+    <string name="action_add">Add</string>
+    <string name="db_changed">Database changed</string>
+    <string name="confirmation_title">Are you sure?</string>
+    <string name="drop_confirmation_message">This will truncate all your data!</string>
+    <string name="remove_confirmation_message">This will remove your data!</string>
+    <string name="no_data">Data set empty!</string>
+    <string name="removed">Item removed!</string>
+    <string name="id">id</string>
+    <string name="hint_new_column">Enter new column name</string>
+    <string name="hint_value">Enter value</string>
+    <string name="help_title">Help</string>
+    <string name="help_message">To add new column to the table just enter its name and press Add by the input.
+        \nTo insert new entry to the table enter values by the columns and press Add in the ActionBar.
+        \nTo query results from the table enter some values you want to filter with and press Search in the ActionBar.
+        \nTo remove some column just swipe of the column.
+        \nTo remove an entry swipe of the item in the result set.</string>
+
+</resources>
